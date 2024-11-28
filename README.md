@@ -21,8 +21,8 @@ Before getting started, ensure you have the following installed:
 To get started, clone the repository from GitHub:
 
 ```bash
-git clone https://github.com/itspranaw/AICalc.git
-cd AICalc
+git clone https://github.com/itspranaw/Shankhyasutra-be.git
+cd Shankhyasutra-be
 
 ```
 ### 2. Create and activate the virutal environment 
