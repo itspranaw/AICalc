@@ -24,3 +24,29 @@ To get started, clone the repository from GitHub:
 ```bash
 git clone https://github.com/itspranaw/AICalc.git
 cd AICalc
+
+```
+### 2. Create and activate the virutal environment 
+
+```
+python3 venv -v env
+source env/bin/activate #for linux
+env\Scripts\activate #for windows
+```
+### 3. Install the dependencies
+```
+pip install -r requirements.txt
+```
+
+### 4. Configure Environment variables
+```
+GEMINI_API_KEY = 
+MONGODB_URL=
+DB_NAME=
+```
+
+### 5. Run the server
+```
+python main.py
+```
+
