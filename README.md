@@ -1,6 +1,5 @@
 # AI Calc
-
-AI Calc is a Python-based project that leverages the Gemini API and MongoDB to perform its operations. This guide will walk you through setting up and running the project on your local machine.
+This is the backend for the project. It leverages the Gemini API and MongoDB to perform its operations. This guide will walk you through setting up and running the project on your local machine.
 
 ---
 
